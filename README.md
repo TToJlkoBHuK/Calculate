@@ -22,7 +22,7 @@
 ->includes
 ├─>базовый класс операций
 └─>базовый класс ошибок
-->plugies
+->plugins
 ├─>func(operation).dll
 ├─>func(operation)
  └─>реализации dll
